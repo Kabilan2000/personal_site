@@ -1,0 +1,43 @@
+
+body{
+   
+      text-align: center;
+}
+h1{
+    margin: 10px;
+    margin-top: 0;
+}
+
+.div0
+{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+    
+}
+.div1{
+    
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    margin-top: 0px;
+   
+}
+.div2{
+    
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    margin-top: 0px;
+   
+}
+.bottom-cloud
+{
+    position: absolute;
+}
+.top-cloud
+{
+    position: absolute;
+    right: 300px;
+    top: 50px
+}
